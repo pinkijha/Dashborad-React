@@ -1,0 +1,1 @@
+export const USER_PROFILE = "https://www.venmond.com/demo/vendroid/img/avatar/big.jpg";
